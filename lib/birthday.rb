@@ -15,3 +15,4 @@ def age_appropriate_birthday(birthday_kids)
     if age == :age_a < 10 && name.after?("A")
     puts"Happy Birthday #{kids_name}! You are now #{age} years old! You are too old for this."
   end
+end
